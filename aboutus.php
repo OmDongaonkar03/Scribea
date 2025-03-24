@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - Library Management System</title>
+    <title>About Us - Scribea</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" rel="stylesheet">
+	<link rel="icon" href="uploads/scribea title logo.png" type="image/icon type">
     <style>
         .about-header {
             background: linear-gradient(to right, #f8f9fa, #ffffff);
@@ -47,7 +48,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
-            <a class="navbar-brand fw-bold" href="landingpage.php">📚 Library System</a>
+            <a class="navbar-brand fw-bold" href="landingpage.php">Scribea</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -57,7 +58,7 @@
                         <a class="nav-link active" href="#">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="btn btn-primary ms-2" href="#">Login/Sign Up</a>
+                        <a class="btn btn-primary ms-2" href="login-signup.php">Login/Sign Up</a>
                     </li>
                 </ul>
             </div>
@@ -158,7 +159,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <p class="mb-0">© 2025 Library Management System. All rights reserved.</p>
+                    <p class="mb-0">© 2025 Scribea. All rights reserved.</p>
                 </div>
             </div>
         </div>
